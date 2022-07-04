@@ -13,6 +13,9 @@
 
 ### 💻 프로젝트
 
+#### Wanted Pre-Onboarding Project A team
+[GITHUB LINK](https://github.com/3rd-wanted-pre-onboarding-teamA)
+
 #### EmotiPop Project
 
 [GITHUB LINK](https://github.com/dltmddus1998/EmotiPop-1)
