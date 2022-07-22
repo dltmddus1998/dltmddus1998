@@ -76,6 +76,9 @@
 <br>
 <br>
 
+## 📚 Study DB
+[📚 Study DB](https://vaulted-occupation-087.notion.site/Study-DataBase-ea3b5b576fad41f1b8c5e9fbf494d23f)
+
 ## ⚒️ Tech Stack ⚒️
 <br>
 
