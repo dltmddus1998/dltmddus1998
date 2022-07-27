@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=timeGradient&desc=&descAlign=60&descAlignY=50&theme=radical&height=300&section=header&text=BackEnd%20seungyeon%20Lee&fontSize=70)
-
-<br>
+<div align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=Slice&color=timeGradient&desc=&descAlign=60&descAlignY=50&theme=radical&height=200&section=header&text=BackEnd%20seungyeon%20Lee&fontSize=40&rotate=10" width=100%/>
+  
+  <br>
 <br>
 
 ## 👥 Profile
@@ -101,3 +102,6 @@
 ![image](https://img.shields.io/badge/DPL-Amazon%20ec2-%23232F3E?style=for-the-badge&logo=Amazon%20AWS)
  
 ![dltmddus1998](https://github-readme-stats.vercel.app/api?username=dltmddus1998&show_icons=true)
+  
+<img src="https://capsule-render.vercel.app/api?type=Slice&color=68A7AD&desc=&descAlign=60&descAlignY=50&height=200&section=footer&rotate=10" width=100% />
+</div>
