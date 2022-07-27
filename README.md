@@ -82,6 +82,8 @@
 <br>
   
 ## ⚒️ Tech Stack ⚒️
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dltmddus1998&theme=cobalt&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10)
 <br>
 
 ![image](https://img.shields.io/badge/LAN-JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript)
