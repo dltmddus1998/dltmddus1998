@@ -9,6 +9,8 @@
 #### [🌐 Tech Blog](https://vaulted-occupation-087.notion.site/Study-DataBase-ea3b5b576fad41f1b8c5e9fbf494d23f)
 
 ### 💻 프로젝트
+
+#### [Oxopolitices Internship](https://github.com/oxopolitics-internship-for-codestates/BePol)
  
 #### [Wanted Pre-Onboarding Project A team](https://github.com/3rd-wanted-pre-onboarding-teamA)
 
