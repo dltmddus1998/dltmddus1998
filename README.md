@@ -6,7 +6,8 @@
 
 ### 🔗 site
 
-#### [🌐 Tech Blog](https://vaulted-occupation-087.notion.site/Study-DataBase-ea3b5b576fad41f1b8c5e9fbf494d23f)
+#### [🌐 Tech Blog](https://dltmddus1998.github.io/)
+#### [💽 Study DB](https://vaulted-occupation-087.notion.site/Study-DataBase-ea3b5b576fad41f1b8c5e9fbf494d23f)
 
 ### 💻 프로젝트
 
