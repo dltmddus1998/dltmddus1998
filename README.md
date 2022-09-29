@@ -25,7 +25,7 @@
 <br>
 <img src="https://img.shields.io/badge/LAN-JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript" /> <img src="https://img.shields.io/badge/LAN-TypeScript-%233178C6?style=for-the-badge&logo=TypeScript" />
 <br>
-<img src="https://img.shields.io/badge/FRM-Node.js-%23339933?style=for-the-badge&logo=Node.js" /> <img src="https://img.shields.io/badge/FRM-Express-%23000000?style=for-the-badge&logo=Express" /> <img src="https://img.shields.io/badge/DB-MySQL-%234479A1?style=for-the-badge&logo=MySQL" /> <img src="https://img.shields.io/badge/ORM-Sequelize-%2352B0E7?style=for-the-badge&logo=Sequelize" /> <img src="https://img.shields.io/badge/DPL-Amazon%20ec2-%23232F3E?style=for-the-badge&logo=Amazon%20AWS" />
+<img src="https://img.shields.io/badge/FRM-NodeJS-%23339933?style=for-the-badge&logo=Node.js" /> <img src="https://img.shields.io/badge/FRM-NestJS-%23E0234E?style=for-the-badge&logo=NestJS"> <img src="https://img.shields.io/badge/FRM-Express-%23000000?style=for-the-badge&logo=Express" /> <img src="https://img.shields.io/badge/FRM-GraphQL-%23E10098?style=for-the-badge&logo=GraphQL"> <img src="https://img.shields.io/badge/DB-MySQL-%234479A1?style=for-the-badge&logo=MySQL" /> <img src="https://img.shields.io/badge/DB-MongoDB-%2347A248?style=for-the-badge&logo=MongoDB"> <img src="https://img.shields.io/badge/ORM-Sequelize-%2352B0E7?style=for-the-badge&logo=Sequelize" />  <img src="https://img.shields.io/badge/DPL-Amazon%20ec2-%23232F3E?style=for-the-badge&logo=Amazon%20AWS" />
  
 <br>
 
