@@ -1,8 +1,13 @@
 <div align='center'>
   <img src="https://capsule-render.vercel.app/api?type=Slice&color=timeGradient&desc=&descAlign=60&descAlignY=50&theme=radical&height=200&section=header&text=BackEnd%20seungyeon%20Lee&fontSize=40&rotate=13" width=100%/>
   
+### 🐹 백엔드 개발자 이승연입니다. (풀스택의 삶을 살고 있는...)
+  
 ### 🎓 학력
 한양여자대학교 소프트웨어융합과(구.컴퓨터정보과) 학사 졸업
+  
+### 👥 소속
+MEGAZONE CLOUD
 
 ### 🔗 site
 
