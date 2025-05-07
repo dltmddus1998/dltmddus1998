@@ -35,6 +35,7 @@ MEGAZONE CLOUD
 <br>
 
 ![dltmddus1998](https://github-readme-stats.vercel.app/api?username=dltmddus1998&show_icons=true)
+![main_git](https://github.com/seungyeoneeee)
  
 </div>
 <div align='center'>
